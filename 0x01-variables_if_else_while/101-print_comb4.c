@@ -14,9 +14,9 @@ int main(void)
 		{
 			for (c = 0; c < 3; c++)
 			{
-				putchar((a / 10) + '0');
-				putchar((b / 10) + '0');
-				putchar((c / 10) + '0');
+				putchar((a % 10) + '0');
+				putchar((b % 10) + '0');
+				putchar((c % 10) + '0');
 
 				if (a == 1 && b == 2 && c == 3)
 					continue;
