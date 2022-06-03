@@ -5,9 +5,9 @@
  * main - main block
  * Description: generate a randome number and prints that number
  * and if it is negatibe, opsitive and zero
- * return :0 (success)
+ * Return :Always 0 (Success)
  */
-int main(void)/*main function*/
+int main(void) /*Description: generates a random number and prints that number*/
 {
 	int n;
 
