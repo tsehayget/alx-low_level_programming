@@ -1,1 +1,1 @@
-projects on debugging our code
+readme for debugging project
