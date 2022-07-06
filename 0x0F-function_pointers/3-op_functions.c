@@ -5,7 +5,7 @@
  * op_add - returns the sum of a and b
  * @a: first integer
  * @b: second integer
- * return: result
+ * Return: result
  */
 int op_add(int a, int b)
 {
@@ -25,7 +25,7 @@ int op_sub(int a, int b)
  * op_div - divides a & b
  * @a: intrger
  * @b: integer
- * return: result
+ * Return: result
  */
 int op_div(int a, int b)
 {
